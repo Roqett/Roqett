@@ -1,16 +1,54 @@
-## Hi there 👋
+# Roqett..from Touretro
 
-<!--
-**Roqett/Roqett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A project hub.
 
-Here are some ideas to get you started:
+This account contains software, hardware, and experimental systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+We don't take any guff from swine,...it's a sound store with the finest equipment. 
+Nothing
+dinky. 
+#owlfreezone
+
+---
+
+## Active Projects
+
+- OpenClaw — system architecture and AI orchestration
+- Open Notebook — experiments and research
+- Redline - the Great wall against agentic loopiness. 
+- intent-Kompressor: for High-Entropy Input Reduction
+- Inseasonal, an app .. sneaking in radical health'n'enviro outcomes to 'gracious living..on the go'
+- A Robotics project : DesertRat customisation to Fine tune common-sense LeGuin-style nous : drive/fix   grow/McGyver : anything : a package. 
+- A kitchen appliance to make synthetiaclly triggered epigenetic compromise a historical glitch.
+- the DeadManSwitchDAOZK.. a real incorruptible insurance policy for progress
+- Krastle/Balancir: an autonomous agentic framework for decentralised, high-performance domestic nodes.
+- 5minutewakeup : a Percussive therapy protocol optimising lymph flow and neural wakefulness.
+- Roqbury : drinkable 0.05 Eth organic wine that is the 1st of its ilk to taste like wine.
+- Wine2.0 ..a new section/shelf/revolution 
+- ADHD : Curative ?  : A Biphasic Neuro-Restructuring Framework for Executive Autonomy and Hard-Coding Plasticity.
+- Bongo - An edge-native drummer more into the groove than Ringo 
+---
+
+## Categories
+
+Software  
+Hardware / firmware  
+Documentation  
+Experiments  
+Game B 
+
+---
+
+## Working Rules
+
+• One repository per project  
+• Every repo has a README  
+• Archive old work instead of deleting  
+• Keep projects organised and documented
+
+
+## Immutable vibe
+
+- Quality will save the world
+- No guts , no OMellette
+
