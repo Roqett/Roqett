@@ -21,15 +21,16 @@ dinky.
 
 - intent-Kompressor: for High-Entropy Input Reduction.
 
+- the DeadManSwitchDAOZK.. a real incorruptible insurance policy for progress.
+
+- Krastle/Balanctir: an autonomous agentic framework for decentralised, high-performance domestic nodes.
+
 - Inseasonal, an app .. sneaking in radical health'n'enviro outcomes to gracious living..on the go, in a hurry..
 
 - A Robotics project : DesertRat customisation to Fine tune common-sense LeGuin-style nous : enabling Robbie to > drive/fix/grow/McGyver > anything : a priceless package. 
 
 - A kitchen appliance to make synthetically triggered epigenetic compromise a historical glitch.
 
-- the DeadManSwitchDAOZK.. a real incorruptible insurance policy for progress.
-
-- Krastle/Balanctir: an autonomous agentic framework for decentralised, high-performance domestic nodes.
 
 - 7minutewakeup : a Percussive therapy protocol optimising lymph flow and neural wakefulness.
 
