@@ -21,7 +21,7 @@ dinky.
 
 - intent-Kompressor: for High-Entropy Input Reduction.
 
-- the DeadManSwitchDAOZK.. a real incorruptible insurance policy for progress.
+- the DMS_DAO_ZK.. a real incorruptible insurance policy for progress.
 
 - Krastle/Balanctir: an autonomous agentic framework for decentralised, high-performance domestic nodes.
 
