@@ -1,4 +1,4 @@
-# Roqett..from Touretro
+# UpPeriscope..LostnFoundry
 
 A project hub.
 
@@ -14,39 +14,37 @@ dinky.
 ## Active Projects
 
 
-- Redline - the Great wall against agentic loopiness. 
+- Red-line : the Great wall against agentic loopiness. 
 
-- intent-Kompressor: for High-Entropy Input Reduction.
+- Kompressor: for High-Entropy Input Reduction.
 
-- Krastle/Balanctir: an autonomous agentic framework for decentralised, high-performance domestic nodes.
-
-- Inseasonal, an app .. sneaking in radical health'n'enviro outcomes to gracious living..on the go, in a hurry..
-
+- BASTA ! : Cartomancy Napolitane.. Moreish Frippery 
 
 - 7minutewakeup : a Percussive therapy protocol optimising lymph flow and neural wakefulness.
 
 
-- Bongo - An edge-native drummer more into the groove than Ringo.
 ---
+## Pending
 
+- Bongo - An edge-native drummer more into the groove than Ringo.
+
+- Krastle/Balanctir: an autonomous agentic framework for decentralised, high-performance domestic nodes.
+
+- Inseasonal, an app .. sneaking  radical health'n'enviro outcomes into gracious living..for those > on the go, in a hurry..
+
+- 7minutewakeup : a Percussive therapy protocol optimising lymph flow and neural wakefulness.
+
+- Bongo - An edge-native drummer more into the groove than Ringo.
+  
 ## Categories
 
-Software  
-Hardware / firmware  
+Firmware  
+Hardware 
 Documentation  
 Experiments  
-Game B 
-Fixes
+Game B Fixes
 
 ---
-
-## Working Rules
-
-• One repository per project  
-• Every repo has a README  
-• Archive old work instead of deleting  
-• Keep projects organised and documented
-
 
 ## Immutable vibe
 
