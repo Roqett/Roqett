@@ -20,7 +20,7 @@ dinky.
 
 - BASTA ! : Cartomancy Napolitane.. Moreish Frippery 
 
-- 7minutewakeup : a Percussive therapy protocol optimising lymph flow and neural wakefulness.
+- 5minutewakeup : a Percussive therapy protocol optimising lymph flow and neural wakefulness.
 
 
 ---
