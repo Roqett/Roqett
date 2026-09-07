@@ -14,9 +14,9 @@ dinky.
 ## Active Projects
 
 
-- Red-line : the Great wall against agentic loopiness. 
+- Red-line : Stress telemetry for Mac against agentic loopiness. 
 
-- Kompressor: for High-Entropy Input Reduction.
+- Kompressor: Dictation for semantic shaping.
 
 - BASTA ! : Cartomancy Napolitane.. Moreish Frippery 
 
@@ -32,9 +32,6 @@ dinky.
 
 - Inseasonal, an app .. sneaking  radical health'n'enviro outcomes into gracious living..for those > on the go, in a hurry..
 
-- 7minutewakeup : a Percussive therapy protocol optimising lymph flow and neural wakefulness.
-
-- Bongo - An edge-native drummer more into the groove than Ringo.
   
 ## Categories
 
