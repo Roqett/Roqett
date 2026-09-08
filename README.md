@@ -14,25 +14,30 @@ dinky.
 ## Active Projects
 
 
-- Red-line : Stress telemetry for Mac against agentic loopiness. 
+- Red-line _ Stress telemetry for Mac against agentic loopiness. 
 
-- Kompressor: Dictation for semantic shaping.
+- Kompressor _ Dictation for semantic shaping.
 
-- BASTA ! : Cartomancy Napolitane.. Moreish Frippery 
+- The Freedom Key _ A Zero_Bio DMS-ZKDAO, Incorruptible. Self-redTeamed.
+                    Immutable life insurance for the key assets of Ethical Orgs ... and encumbered free agents.
 
-- 5minutewakeup : a Percussive therapy protocol optimising lymph flow and neural wakefulness.
+- BASTA ! _ Cartomancy Napolitane.. Moreish Frippery 
+
+- 5minutewakeup _ a Percussive therapy protocol optimising lymph flow and neural wakefulness.
 
 
 ---
 ## Pending
 
-- Bongo - An edge-native drummer more into the groove than Ringo.
+- GRUNT.E _  Assembly indexed Legacy iron through open, high-torque hybrid augmentation. Convergence of BuiltNB RV zero-knowledge                 telemetry, and community tokenised engineering. A Foundation for the bush, powered by the people: unmanaged by PalaNet.
 
-- Krastle/Balanctir: an autonomous agentic framework for decentralised, high-performance domestic nodes.
+- Bongo _ An edge-native drummer more into the groove than Ringo.
 
-- Inseasonal, an app .. sneaking  radical health'n'enviro outcomes into gracious living..for those > on the go, in a hurry..
+- Krastle/Balanctir _ an autonomous agentic framework for decentralised, high-performance domestic nodes.
 
-  
+- Inseasonal _ an app .. sneaking  radical health'n'enviro outcomes into gracious living..for those > on the go, in a hurry..
+
+
 ## Categories
 
 Firmware  
