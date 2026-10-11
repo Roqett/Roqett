@@ -13,6 +13,9 @@ dinky.
 
 ## Active Projects
 
+- Sea-Star _ LIVE and PUBLIC , work in progress
+Local-first macOS menubar AI cockpit & dual-role MCP multiplexer. Connects local OpenAI-compatible inference runtimes and agent harnesses to your Obsidian vault knowledge graph for sovereign memory.
+ Real-time text telemetry, connection graph visualization, zero-config tool routing, and local RAG search.
 
 - Red-line _ Stress telemetry for Mac against agentic loopiness. 
 
