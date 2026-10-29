@@ -19,7 +19,7 @@ Local-first macOS menubar AI cockpit & dual-role MCP multiplexer. Connects local
 
 - Red-line _ Stress telemetry for Mac against agentic loopiness. 
 
-- Magnet Napkin _ A little magnet board for laying out assets. Drop a folder, set a real canvas size, move and resize the pieces like magnets, leave notes that are clearly notes, and hand the result to a vision agent. [github.com/Roqett/magnet-napkin](https://github.com/Roqett/magnet-napkin)
+- Napkinetic _ A little magnet whiteboard for laying out assets. Drop a folder, set a real canvas size, move and resize the pieces like magnets, leave notes that are clearly notes, and hand the result to a vision agent.
 
 - Kompressor _ Dictation for semantic shaping.
 
